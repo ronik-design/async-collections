@@ -1,2 +1,2 @@
-async-collections
+async-collections[![Build Status](https://magnum.travis-ci.com/ronik-design/async-collections.svg?token=7x1RwSMgp4uQWfgdrgz2&branch=master)](https://magnum.travis-ci.com/ronik-design/async-collections)
 ==================
