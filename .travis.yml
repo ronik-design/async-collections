@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+- '0.10'
+notifications:
+  hipchat: VqBifTT25eRKH6eT65WCc0WfbE6M4COMqf1tilvR@CI
+  email:
+    recipients:
+    - andrew@ronikdesign.com
+    - mark@ronikdesign.com

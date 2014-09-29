@@ -1,2 +1,2 @@
-asyncpaginatedlist
+async-collections
 ==================

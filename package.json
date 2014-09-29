@@ -1,0 +1,25 @@
+{
+  "name": "async-collections",
+  "version": "0.1.0",
+  "description": "async-collections ==================",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronik-design/async-collections.git"
+  },
+  "author": "Andrew Sprouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronik-design/async-collections/issues"
+  },
+  "homepage": "https://github.com/ronik-design/async-collections",
+  "dependencies": {
+    "es6-promise": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.1.18"
+  }
+}
